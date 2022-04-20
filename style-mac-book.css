@@ -1,0 +1,11 @@
+.container{
+    margin-top: 25px;
+}
+
+.specification:hover {
+    background-color: rgb(120, 129, 129);
+    color: white;
+    /* border-style: dotted; */
+    border-width:2px;
+    border-color: black;
+}
